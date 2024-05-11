@@ -339,10 +339,10 @@ nav .fas{
     .header-text h3 {
         font-size: 30px;
     }
-    .header-text p{
+    .header-text p {
     font-size: 20px;
     font-weight: 500;
-    color: blue;
+    color: red;
 }
     nav .fas{
         display: block;
