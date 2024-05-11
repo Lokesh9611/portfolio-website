@@ -79,6 +79,7 @@ nav ul li a:hover::after{
 .header-text span{
     color: rgb(169, 212, 12);
 }
+
 /*--------about----------*/
 
 .about-col-1 img{
@@ -338,6 +339,10 @@ nav .fas{
     .header-text h3 {
         font-size: 30px;
     }
+    .header-text p{
+    font-size: 20px;
+    font-weight: 500;
+}
     nav .fas{
         display: block;
         font-size: 25px;
